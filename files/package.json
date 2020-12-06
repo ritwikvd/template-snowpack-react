@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "latest",
+    "@babel/preset-react": "latest",
+    "@snowpack/plugin-babel": "latest",
+    "@snowpack/plugin-dotenv": "latest",
+    "@snowpack/plugin-react-refresh": "latest",
+    "@testing-library/dom": "latest",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/user-event": "latest",
+    "babel-jest": "latest",
+    "jest": "latest",
+    "jest-transform-stub": "latest",
+    "snowpack": "latest"
+  }
+}

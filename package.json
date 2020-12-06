@@ -1,0 +1,25 @@
+{
+  "name": "create-snowpack-react-with-tests",
+  "version": "1.0.0",
+  "description": "Basic snowpack template with react and testing libs",
+  "main": "run.js",
+  "bin": "run.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "copy-dir": "^1.3.0"
+  },
+  "author": "Ritwik Das",
+  "email": "ritwikvd@gmail.com",
+  "license": "MIT",
+  "keywords": ["template, snowpack, react, jest, rtl"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritwikvd/template-snowpack-react"
+  },
+  "bugs": {
+    "url": "https://github.com/ritwikvd/template-snowpack-react/issues"
+  },
+  "homepage": "https://github.com/ritwikvd/template-snowpack-react#readme"
+}
